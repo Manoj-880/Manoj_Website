@@ -1,5 +1,6 @@
 import Portfolio from './components/Portfolio';
 import About from './components/about';
+import Contact from './components/contact';
 import Home from './components/home';
 import NavBar from './components/navbar';
 import Skills from './components/skills';
@@ -14,6 +15,7 @@ function App() {
       <About/>
       <Portfolio/>
       <Skills/>
+      <Contact/>
 
       <SocialLinks/>
     </div>
